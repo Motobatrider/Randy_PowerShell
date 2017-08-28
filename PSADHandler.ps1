@@ -8,7 +8,7 @@
 # Find user information: PSAD_UserInfo($username)
 # Reset passwqord: PSAD_RestPW ($username,$password)
 # Reset Admin password: PSAD_RestADMPW ($username,$password)
-#
+# Find bitlocker
 #
 #
 #
